@@ -1,4 +1,4 @@
-Hitchcock is a web application for managing and providing access to locally hosted electronic reserves materials.
+Hitchcock is a web application for managing and providing access to locally hosted electronic reserves materials. Test fork for security scanning.
 
 # Setup
 Requires Python 3.5 or later.
